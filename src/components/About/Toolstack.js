@@ -6,11 +6,7 @@ import {
   SiScikitlearn,
   SiTensorflow,
   SiKeras,
-  SiPlotly, // Alternatif untuk Matplotlib
-  SiGooglemaps, // Alternatif untuk Folium
-  SiOpenai, // Alternatif ikon untuk "etc."
 } from "react-icons/si";
-import { DiPython } from "react-icons/di"; // Representasi umum untuk Seaborn
 
 function Toolstack() {
   return (
